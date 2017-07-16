@@ -1,0 +1,914 @@
+[
+  {
+    "country": "Afghanistan",
+    "average_age": 59.3798447
+  },
+  {
+    "country": "Aland Islands",
+    "average_age": 51.8333321
+  },
+  {
+    "country": "Albania",
+    "average_age": 54.2260857
+  },
+  {
+    "country": "Algeria",
+    "average_age": 59.0
+  },
+  {
+    "country": "American Samoa",
+    "average_age": 60.1538467
+  },
+  {
+    "country": "Andorra",
+    "average_age": 31.0
+  },
+  {
+    "country": "Angola",
+    "average_age": 59.9428558
+  },
+  {
+    "country": "Anguilla",
+    "average_age": 65.0
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "average_age": 61.0
+  },
+  {
+    "country": "Argentina",
+    "average_age": 58.4986153
+  },
+  {
+    "country": "Armenia",
+    "average_age": 60.477066
+  },
+  {
+    "country": "Aruba",
+    "average_age": 27.666666
+  },
+  {
+    "country": "Australia",
+    "average_age": 65.13636
+  },
+  {
+    "country": "Austria",
+    "average_age": 43.9
+  },
+  {
+    "country": "Azerbaijan",
+    "average_age": 58.80682
+  },
+  {
+    "country": "Bahamas",
+    "average_age": 54.0
+  },
+  {
+    "country": "Bahrain",
+    "average_age": 60.75
+  },
+  {
+    "country": "Bangladesh",
+    "average_age": 56.9878044
+  },
+  {
+    "country": "Barbados",
+    "average_age": 40.2
+  },
+  {
+    "country": "Belarus",
+    "average_age": 60.7657661
+  },
+  {
+    "country": "Belgium",
+    "average_age": 68.6666641
+  },
+  {
+    "country": "Belize",
+    "average_age": 55.8
+  },
+  {
+    "country": "Benin",
+    "average_age": 69.22222
+  },
+  {
+    "country": "Bhutan",
+    "average_age": 60.4
+  },
+  {
+    "country": "Bolivia",
+    "average_age": 59.935482
+  },
+  {
+    "country": "Bonaire, Saint Eustatius and Saba ",
+    "average_age": 69.3333359
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "average_age": 57.775
+  },
+  {
+    "country": "Botswana",
+    "average_age": 56.45238
+  },
+  {
+    "country": "Brazil",
+    "average_age": 59.3170967
+  },
+  {
+    "country": "Brunei",
+    "average_age": 37.0
+  },
+  {
+    "country": "Bulgaria",
+    "average_age": 61.4140625
+  },
+  {
+    "country": "Burkina Faso",
+    "average_age": 53.25
+  },
+  {
+    "country": "Burundi",
+    "average_age": 56.2
+  },
+  {
+    "country": "Cambodia",
+    "average_age": 56.5555573
+  },
+  {
+    "country": "Cameroon",
+    "average_age": 61.4406776
+  },
+  {
+    "country": "Canada",
+    "average_age": 58.9772072
+  },
+  {
+    "country": "Cape Verde",
+    "average_age": 55.6666679
+  },
+  {
+    "country": "Cayman Islands",
+    "average_age": 94.0
+  },
+  {
+    "country": "Central African Republic",
+    "average_age": 58.8
+  },
+  {
+    "country": "Chad",
+    "average_age": 54.1666679
+  },
+  {
+    "country": "Chile",
+    "average_age": 63.4533348
+  },
+  {
+    "country": "China",
+    "average_age": 58.8635254
+  },
+  {
+    "country": "Christmas Island",
+    "average_age": 39.0
+  },
+  {
+    "country": "Colombia",
+    "average_age": 57.9566269
+  },
+  {
+    "country": "Comoros",
+    "average_age": 58.391304
+  },
+  {
+    "country": "Costa Rica",
+    "average_age": 62.0571442
+  },
+  {
+    "country": "Croatia",
+    "average_age": 63.6142845
+  },
+  {
+    "country": "Cuba",
+    "average_age": 59.0107536
+  },
+  {
+    "country": "Curacao",
+    "average_age": 91.0
+  },
+  {
+    "country": "Cyprus",
+    "average_age": 61.5483856
+  },
+  {
+    "country": "Czech Republic",
+    "average_age": 60.5029945
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "average_age": 70.17021
+  },
+  {
+    "country": "Denmark",
+    "average_age": 53.97059
+  },
+  {
+    "country": "Djibouti",
+    "average_age": 67.0
+  },
+  {
+    "country": "Dominica",
+    "average_age": 55.727272
+  },
+  {
+    "country": "Dominican Republic",
+    "average_age": 54.5531921
+  },
+  {
+    "country": "East Timor",
+    "average_age": 64.375
+  },
+  {
+    "country": "Ecuador",
+    "average_age": 60.03077
+  },
+  {
+    "country": "Egypt",
+    "average_age": 58.5
+  },
+  {
+    "country": "El Salvador",
+    "average_age": 60.18919
+  },
+  {
+    "country": "Equatorial Guinea",
+    "average_age": 59.375
+  },
+  {
+    "country": "Eritrea",
+    "average_age": 34.0
+  },
+  {
+    "country": "Estonia",
+    "average_age": 66.7083359
+  },
+  {
+    "country": "Ethiopia",
+    "average_age": 62.9824562
+  },
+  {
+    "country": "Faroe Islands",
+    "average_age": 43.8571434
+  },
+  {
+    "country": "Fiji",
+    "average_age": 55.0
+  },
+  {
+    "country": "Finland",
+    "average_age": 61.51875
+  },
+  {
+    "country": "France",
+    "average_age": 58.449543
+  },
+  {
+    "country": "French Guiana",
+    "average_age": 21.0
+  },
+  {
+    "country": "French Polynesia",
+    "average_age": 52.8571434
+  },
+  {
+    "country": "French Southern Territories",
+    "average_age": 82.0
+  },
+  {
+    "country": "Gabon",
+    "average_age": 44.3125
+  },
+  {
+    "country": "Gambia",
+    "average_age": 53.3478279
+  },
+  {
+    "country": "Georgia",
+    "average_age": 61.97778
+  },
+  {
+    "country": "Germany",
+    "average_age": 55.1219521
+  },
+  {
+    "country": "Ghana",
+    "average_age": 60.9090919
+  },
+  {
+    "country": "Greece",
+    "average_age": 56.567646
+  },
+  {
+    "country": "Greenland",
+    "average_age": 71.0
+  },
+  {
+    "country": "Grenada",
+    "average_age": 77.0
+  },
+  {
+    "country": "Guadeloupe",
+    "average_age": 38.75
+  },
+  {
+    "country": "Guam",
+    "average_age": 59.0
+  },
+  {
+    "country": "Guatemala",
+    "average_age": 61.7
+  },
+  {
+    "country": "Guinea",
+    "average_age": 56.77778
+  },
+  {
+    "country": "Guinea-Bissau",
+    "average_age": 61.0
+  },
+  {
+    "country": "Guyana",
+    "average_age": 66.09091
+  },
+  {
+    "country": "Haiti",
+    "average_age": 58.121212
+  },
+  {
+    "country": "Honduras",
+    "average_age": 57.2697372
+  },
+  {
+    "country": "Hong Kong",
+    "average_age": 71.0
+  },
+  {
+    "country": "Hungary",
+    "average_age": 56.514286
+  },
+  {
+    "country": "Iceland",
+    "average_age": 60.727272
+  },
+  {
+    "country": "India",
+    "average_age": 78.0
+  },
+  {
+    "country": "Indonesia",
+    "average_age": 59.326828
+  },
+  {
+    "country": "Iran",
+    "average_age": 57.231884
+  },
+  {
+    "country": "Iraq",
+    "average_age": 64.4137955
+  },
+  {
+    "country": "Ireland",
+    "average_age": 61.77778
+  },
+  {
+    "country": "Isle of Man",
+    "average_age": 61.0
+  },
+  {
+    "country": "Israel",
+    "average_age": 63.88
+  },
+  {
+    "country": "Italy",
+    "average_age": 59.878788
+  },
+  {
+    "country": "Ivory Coast",
+    "average_age": 57.2105255
+  },
+  {
+    "country": "Jamaica",
+    "average_age": 63.8695641
+  },
+  {
+    "country": "Japan",
+    "average_age": 59.28291
+  },
+  {
+    "country": "Jordan",
+    "average_age": 56.59375
+  },
+  {
+    "country": "Kazakhstan",
+    "average_age": 60.43651
+  },
+  {
+    "country": "Kenya",
+    "average_age": 54.47059
+  },
+  {
+    "country": "Kiribati",
+    "average_age": 45.8333321
+  },
+  {
+    "country": "Kosovo",
+    "average_age": 48.96552
+  },
+  {
+    "country": "Kuwait",
+    "average_age": 53.5
+  },
+  {
+    "country": "Kyrgyzstan",
+    "average_age": 57.485714
+  },
+  {
+    "country": "Laos",
+    "average_age": 62.217392
+  },
+  {
+    "country": "Latvia",
+    "average_age": 56.8333321
+  },
+  {
+    "country": "Lebanon",
+    "average_age": 57.61111
+  },
+  {
+    "country": "Lesotho",
+    "average_age": 49.6
+  },
+  {
+    "country": "Liberia",
+    "average_age": 56.57143
+  },
+  {
+    "country": "Libya",
+    "average_age": 50.3928566
+  },
+  {
+    "country": "Liechtenstein",
+    "average_age": 39.8571434
+  },
+  {
+    "country": "Lithuania",
+    "average_age": 59.2363625
+  },
+  {
+    "country": "Luxembourg",
+    "average_age": 61.96154
+  },
+  {
+    "country": "Macao",
+    "average_age": 18.0
+  },
+  {
+    "country": "Macedonia",
+    "average_age": 56.47059
+  },
+  {
+    "country": "Madagascar",
+    "average_age": 59.536232
+  },
+  {
+    "country": "Malawi",
+    "average_age": 63.2857132
+  },
+  {
+    "country": "Malaysia",
+    "average_age": 61.8625946
+  },
+  {
+    "country": "Maldives",
+    "average_age": 52.363636
+  },
+  {
+    "country": "Mali",
+    "average_age": 62.7419357
+  },
+  {
+    "country": "Malta",
+    "average_age": 62.04
+  },
+  {
+    "country": "Marshall Islands",
+    "average_age": 59.0
+  },
+  {
+    "country": "Martinique",
+    "average_age": 67.0
+  },
+  {
+    "country": "Mauritania",
+    "average_age": 48.8
+  },
+  {
+    "country": "Mauritius",
+    "average_age": 55.1923065
+  },
+  {
+    "country": "Mayotte",
+    "average_age": 43.1428566
+  },
+  {
+    "country": "Mexico",
+    "average_age": 59.9266663
+  },
+  {
+    "country": "Micronesia",
+    "average_age": 57.4666672
+  },
+  {
+    "country": "Moldova",
+    "average_age": 56.2
+  },
+  {
+    "country": "Monaco",
+    "average_age": 67.6666641
+  },
+  {
+    "country": "Mongolia",
+    "average_age": 58.0327873
+  },
+  {
+    "country": "Montenegro",
+    "average_age": 66.1875
+  },
+  {
+    "country": "Morocco",
+    "average_age": 56.94737
+  },
+  {
+    "country": "Mozambique",
+    "average_age": 64.25
+  },
+  {
+    "country": "Myanmar",
+    "average_age": 63.125
+  },
+  {
+    "country": "Namibia",
+    "average_age": 64.4375
+  },
+  {
+    "country": "Nepal",
+    "average_age": 63.794117
+  },
+  {
+    "country": "Netherlands",
+    "average_age": 62.6226425
+  },
+  {
+    "country": "New Caledonia",
+    "average_age": 56.375
+  },
+  {
+    "country": "New Zealand",
+    "average_age": 55.2619057
+  },
+  {
+    "country": "Nicaragua",
+    "average_age": 56.5849075
+  },
+  {
+    "country": "Niger",
+    "average_age": 63.8518524
+  },
+  {
+    "country": "Nigeria",
+    "average_age": 59.9652519
+  },
+  {
+    "country": "Niue",
+    "average_age": 33.0
+  },
+  {
+    "country": "Norfolk Island",
+    "average_age": 85.0
+  },
+  {
+    "country": "North Korea",
+    "average_age": 60.7377052
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "average_age": 48.0
+  },
+  {
+    "country": "Norway",
+    "average_age": 61.30328
+  },
+  {
+    "country": "Oman",
+    "average_age": 58.3571434
+  },
+  {
+    "country": "Pakistan",
+    "average_age": 58.22086
+  },
+  {
+    "country": "Palau",
+    "average_age": 56.0
+  },
+  {
+    "country": "Palestinian Territory",
+    "average_age": 56.6435661
+  },
+  {
+    "country": "Panama",
+    "average_age": 58.7931023
+  },
+  {
+    "country": "Papua New Guinea",
+    "average_age": 65.27273
+  },
+  {
+    "country": "Paraguay",
+    "average_age": 58.086956
+  },
+  {
+    "country": "Peru",
+    "average_age": 60.52941
+  },
+  {
+    "country": "Philippines",
+    "average_age": 59.82247
+  },
+  {
+    "country": "Pitcairn",
+    "average_age": 72.5
+  },
+  {
+    "country": "Poland",
+    "average_age": 58.5480652
+  },
+  {
+    "country": "Portugal",
+    "average_age": 59.229454
+  },
+  {
+    "country": "Puerto Rico",
+    "average_age": 61.25
+  },
+  {
+    "country": "Qatar",
+    "average_age": 62.5833321
+  },
+  {
+    "country": "Republic of the Congo",
+    "average_age": 75.2
+  },
+  {
+    "country": "Reunion",
+    "average_age": 47.5454559
+  },
+  {
+    "country": "Russia",
+    "average_age": 59.1188
+  },
+  {
+    "country": "Rwanda",
+    "average_age": 52.3333321
+  },
+  {
+    "country": "Saint Barthelemy",
+    "average_age": 71.0
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "average_age": 67.6666641
+  },
+  {
+    "country": "Saint Lucia",
+    "average_age": 65.0
+  },
+  {
+    "country": "Saint Martin",
+    "average_age": 53.0
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "average_age": 41.25
+  },
+  {
+    "country": "Samoa",
+    "average_age": 26.0
+  },
+  {
+    "country": "San Marino",
+    "average_age": 72.0
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "average_age": 72.5
+  },
+  {
+    "country": "Saudi Arabia",
+    "average_age": 59.875
+  },
+  {
+    "country": "Senegal",
+    "average_age": 63.3125
+  },
+  {
+    "country": "Serbia",
+    "average_age": 56.636364
+  },
+  {
+    "country": "Seychelles",
+    "average_age": 58.25
+  },
+  {
+    "country": "Sierra Leone",
+    "average_age": 62.48148
+  },
+  {
+    "country": "Singapore",
+    "average_age": 45.0
+  },
+  {
+    "country": "Slovakia",
+    "average_age": 49.0
+  },
+  {
+    "country": "Slovenia",
+    "average_age": 61.5319138
+  },
+  {
+    "country": "Solomon Islands",
+    "average_age": 47.5
+  },
+  {
+    "country": "Somalia",
+    "average_age": 63.217392
+  },
+  {
+    "country": "South Africa",
+    "average_age": 56.5374146
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "average_age": 58.0
+  },
+  {
+    "country": "South Korea",
+    "average_age": 57.6595726
+  },
+  {
+    "country": "South Sudan",
+    "average_age": 61.75
+  },
+  {
+    "country": "Spain",
+    "average_age": 54.82353
+  },
+  {
+    "country": "Sri Lanka",
+    "average_age": 54.7441864
+  },
+  {
+    "country": "Sudan",
+    "average_age": 61.15625
+  },
+  {
+    "country": "Suriname",
+    "average_age": 55.11111
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "average_age": 37.0
+  },
+  {
+    "country": "Swaziland",
+    "average_age": 58.6666679
+  },
+  {
+    "country": "Sweden",
+    "average_age": 59.14346
+  },
+  {
+    "country": "Switzerland",
+    "average_age": 48.8461533
+  },
+  {
+    "country": "Syria",
+    "average_age": 56.36036
+  },
+  {
+    "country": "Taiwan",
+    "average_age": 57.875
+  },
+  {
+    "country": "Tajikistan",
+    "average_age": 61.8648643
+  },
+  {
+    "country": "Tanzania",
+    "average_age": 55.65432
+  },
+  {
+    "country": "Thailand",
+    "average_age": 60.0282059
+  },
+  {
+    "country": "Togo",
+    "average_age": 57.1875
+  },
+  {
+    "country": "Tokelau",
+    "average_age": 70.0
+  },
+  {
+    "country": "Tonga",
+    "average_age": 71.8
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "average_age": 56.5555573
+  },
+  {
+    "country": "Tunisia",
+    "average_age": 65.89744
+  },
+  {
+    "country": "Turkey",
+    "average_age": 53.2
+  },
+  {
+    "country": "Turkmenistan",
+    "average_age": 68.75
+  },
+  {
+    "country": "Tuvalu",
+    "average_age": 74.6666641
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "average_age": 80.0
+  },
+  {
+    "country": "Uganda",
+    "average_age": 60.21818
+  },
+  {
+    "country": "Ukraine",
+    "average_age": 56.48238
+  },
+  {
+    "country": "United Arab Emirates",
+    "average_age": 54.0
+  },
+  {
+    "country": "United Kingdom",
+    "average_age": 54.6551743
+  },
+  {
+    "country": "United States",
+    "average_age": 58.0417938
+  },
+  {
+    "country": "Uruguay",
+    "average_age": 64.1666641
+  },
+  {
+    "country": "Uzbekistan",
+    "average_age": 60.0
+  },
+  {
+    "country": "Vanuatu",
+    "average_age": 62.5
+  },
+  {
+    "country": "Venezuela",
+    "average_age": 60.1724129
+  },
+  {
+    "country": "Vietnam",
+    "average_age": 59.1701241
+  },
+  {
+    "country": "Western Sahara",
+    "average_age": 66.0
+  },
+  {
+    "country": "Yemen",
+    "average_age": 58.89189
+  },
+  {
+    "country": "Zambia",
+    "average_age": 60.48718
+  },
+  {
+    "country": "Zimbabwe",
+    "average_age": 58.7142868
+  }
+]
