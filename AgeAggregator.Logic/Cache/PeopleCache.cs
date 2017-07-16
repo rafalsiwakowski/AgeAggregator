@@ -3,20 +3,11 @@ using AgeAggregator.Logic.Serialization;
 using AgeAggregator.Logic.Utils;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace AgeAggregator.Logic.Cache
 {
-    public interface IPeopleCache
-    {
-        void Initialize(string directoryPath);
-        void IncludeFiles(params string[] fileNames);
-        void ExcludeFiles(params string[] fileNames);
-        IEnumerable<Person> GetPeople();
-    }
-
     class PeopleCache : IPeopleCache
     {
         static readonly string[] AllowedExtensions = new[] { ".xml", "json", ".csv" };

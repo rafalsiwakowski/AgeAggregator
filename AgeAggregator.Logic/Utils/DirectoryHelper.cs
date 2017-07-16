@@ -1,15 +1,8 @@
-﻿using System.Collections.Generic;
-using System.IO;
+﻿using System.IO;
 using System.Linq;
 
 namespace AgeAggregator.Logic.Utils
 {
-    public interface IDirectoryHelper
-    {
-        bool ValidateDirectoryPath(string directoryPath);
-        string[] GetDirectoryFiles(string directoryPath, params string[] desiredExtensions);
-    }
-
     class DirectoryHelper : IDirectoryHelper
     {
         public bool ValidateDirectoryPath(string directoryPath)

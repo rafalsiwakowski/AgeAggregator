@@ -1,15 +1,9 @@
 ﻿using AgeAggregator.Logic.Models;
 using System.Collections.Generic;
 using System.Linq;
-using AgeAggregator.Logic.Cache;
 
 namespace AgeAggregator.Logic.Evaluation
 {
-    public interface IPeopleAverageAgeEvaluator
-    {
-        IEnumerable<AveragePeopleAgePerCountry> ComputePeopleAverageAge(IEnumerable<Person> people);
-    }
-
     class PeopleAverageAgeEvaluator : IPeopleAverageAgeEvaluator
     {
         public IEnumerable<AveragePeopleAgePerCountry> ComputePeopleAverageAge(IEnumerable<Person> people)

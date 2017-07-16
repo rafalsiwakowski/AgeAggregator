@@ -2,11 +2,6 @@
 
 namespace AgeAggregator.Logic.Validation
 {
-    public interface IValidator<T>
-    {
-        bool IsValid(T instance);
-    }
-
     class PersonValidator : IValidator<Person>
     {
         public bool IsValid(Person instance)

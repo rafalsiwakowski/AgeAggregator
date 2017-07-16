@@ -4,14 +4,6 @@ using System.Security.Principal;
 
 namespace AgeAggregator.Logic.Utils
 {
-    public interface IPathHelper
-    {
-        string GetFullPath(string path);
-        bool FileExists(string path);
-        bool CanWrite(string path);
-        string GetExtension(string path);
-    }
-
     class PathHelper : IPathHelper
     {
         public string GetFullPath(string path)
@@ -26,6 +18,7 @@ namespace AgeAggregator.Logic.Utils
 
         public bool CanWrite(string path)
         {
+            //Code found on StackOverflow
             try
             {
                 FileSystemSecurity security;

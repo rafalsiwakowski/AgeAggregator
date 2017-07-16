@@ -4,11 +4,6 @@ using System;
 
 namespace AgeAggregator.Logic.Serialization
 {
-    public interface IPersonDeserializerFactory
-    {
-        IDeserializer<Person> CreateFor(string fileExtension);
-    }
-
     class PersonDeserializerFactory : IPersonDeserializerFactory
     {
         readonly Func<IValidator<Person>> _personValidatorFunc;

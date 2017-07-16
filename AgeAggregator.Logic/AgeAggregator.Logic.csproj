@@ -49,16 +49,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cache\IPeopleCache.cs" />
     <Compile Include="Configuration\LogicModule.cs" />
     <Compile Include="Cache\PeopleCache.cs" />
+    <Compile Include="Evaluation\IPeopleAverageAgeEvaluator.cs" />
     <Compile Include="Evaluation\PeopleAverageAgeEvaluator.cs" />
     <Compile Include="Extensions\PeopleColllectionExtensions.cs" />
     <Compile Include="FileOperations\DirectoryMonitor.cs" />
+    <Compile Include="FileOperations\IDirectoryMonitor.cs" />
     <Compile Include="Models\AveragePeopleAgePerCountry.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Serialization\AveragePeopleAgePerCountrySerializer.cs" />
     <Compile Include="Serialization\CsvPeopleDeserializer.cs" />
     <Compile Include="Serialization\IDeserializer.cs" />
+    <Compile Include="Serialization\IPersonDeserializerFactory.cs" />
     <Compile Include="Serialization\ISerializer.cs" />
     <Compile Include="Serialization\JsonPeopleDeserializer.cs" />
     <Compile Include="Serialization\PersonDeserializerFactory.cs" />
@@ -68,7 +72,11 @@
     <Compile Include="Serialization\XmlPeopleDeserializer.cs" />
     <Compile Include="Utils\DirectoryHelper.cs" />
     <Compile Include="Utils\FileHelper.cs" />
+    <Compile Include="Utils\IDirectoryHelper.cs" />
+    <Compile Include="Utils\IFileHelper.cs" />
+    <Compile Include="Utils\IPathHelper.cs" />
     <Compile Include="Utils\PathHelper.cs" />
+    <Compile Include="Validation\IValidator.cs" />
     <Compile Include="Validation\PersonValidator.cs" />
   </ItemGroup>
   <ItemGroup>
